@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BLINQR/static/css/main.e6c13ad2.css",
+    "main.js": "/BLINQR/static/js/main.30e20225.js",
+    "static/js/787.74c13dc0.chunk.js": "/BLINQR/static/js/787.74c13dc0.chunk.js",
+    "index.html": "/BLINQR/index.html",
+    "main.e6c13ad2.css.map": "/BLINQR/static/css/main.e6c13ad2.css.map",
+    "main.30e20225.js.map": "/BLINQR/static/js/main.30e20225.js.map",
+    "787.74c13dc0.chunk.js.map": "/BLINQR/static/js/787.74c13dc0.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.30e20225.js"
+  ]
+}
