@@ -1,7 +1,6 @@
 import React, { useState, useEffect } from 'react';
 import QRCode from 'qrcode.react';
 import { Html5Qrcode } from 'html5-qrcode';
-import logo from "./_3c72afc1-a9ee-4b7a-b0c7-3c5f489c254b.jpg";
 
 
 function App() {
@@ -88,10 +87,6 @@ function App() {
     <>
       <nav className={`navbar navbar-expand-lg  'navbar-dark bg-dark' : 'navbar-light bg-light'}`}>
         <div className="container-fluid">
-        <a className="navbar-brand" href="/">
-  <img src={logo} alt="Your Logo" height="40" />
-</a>
-
           <a className="navbar-brand" href="/">BLINQR</a>
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon"></span>
